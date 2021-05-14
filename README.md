@@ -10,4 +10,4 @@ Links to resources
 
  - - - - - -
 
-* If you want to see how we [scraped the data](https://github.com/FardinAhsan146/Business-analytics-competition/blob/master/data_analysis/scraping.ipynb)
+* If you want to see how we [scraped the demographic data](https://github.com/FardinAhsan146/Business-analytics-competition/blob/master/data_analysis/scraping.ipynb)
