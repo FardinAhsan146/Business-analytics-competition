@@ -1,0 +1,8 @@
+folium
+geojson
+numpy
+pandas
+seaborn
+scipy
+matplotlib
+colorama
