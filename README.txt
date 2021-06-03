@@ -21,3 +21,6 @@ All the files are present in All_files.zip
 	3) View the EDA_consise.ipynb and scraping.ipynb in the data_analysis directory using the interactive notebook viewer of your choice. We reccomend a notebook viewer that can display HTML elements, such as Visual Studio code or Jupyter notebook. (If you fail this, you can look at the pdf files of the notebooks for reference.) (WARNING: You have to compile the code to view the results.)
 
 	4) PowerBI_slides.pdf is a summary of the initial data exploration we did using PowerBI
+
+
+AAA
