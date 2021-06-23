@@ -4,7 +4,6 @@ Links to resources
 
 * Data is pharm_info.csv and pharm_sales.csv
 
-* Scraping notebook [scraping.ipynb](https://github.com/FardinAhsan146/Business-analytics-competition/blob/master/data_analysis/scraping.ipynb)
 
 * Project progress abridged [EDA_consise.ipynb](https://nbviewer.jupyter.org/github/FardinAhsan146/Business-analytics-competition/blob/master/data_analysis/EDA_consise.ipynb)
 
